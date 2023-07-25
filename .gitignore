@@ -1,0 +1,6 @@
+*.exe
+*.in*
+*.ans*
+*.out*
+/bits
+
